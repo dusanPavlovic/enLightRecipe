@@ -1,0 +1,211 @@
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\ApplicationInsights.config
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\csc.exe
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\vbc.exe
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\VBCSCompiler.exe
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\enLightRecipe.dll.config
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\enLightRecipe.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\enLightRecipe.pdb
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Antlr3.Runtime.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Web.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.ApplicationInsights.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Newtonsoft.Json.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Net.Http.Formatting.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Helpers.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Http.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Http.WebHost.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Mvc.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Optimization.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Razor.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Deployment.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Razor.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\WebGrease.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Web.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.ApplicationInsights.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Newtonsoft.Json.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Net.Http.Formatting.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Helpers.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Http.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Http.WebHost.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Mvc.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Optimization.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.Razor.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Deployment.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Razor.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Antlr3.Runtime.pdb
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.csprojResolveAssemblyReference.cache
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.pdb
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\EntityFramework.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\EntityFramework.SqlServer.dll
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\EntityFramework.xml
+c:\users\ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\EntityFramework.SqlServer.xml
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Ninject.dll
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Ninject.Web.Common.dll
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Ninject.Web.Mvc.dll
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\WebActivatorEx.dll
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Ninject.xml
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Ninject.Web.Common.xml
+C:\Users\Ducacos\documents\visual studio 2015\Projects\enLightRecipe\enLightRecipe\bin\Ninject.Web.Mvc.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\ApplicationInsights.config
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\csc.exe
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\System.Collections.Immutable.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\System.Reflection.Metadata.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\vbc.exe
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\VBCSCompiler.exe
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\VBCSCompiler.exe.config
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\enLightRecipe.dll.config
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\enLightRecipe.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\enLightRecipe.pdb
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Antlr3.Runtime.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Core.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.SqlServer.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Agent.Intercept.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.DependencyCollector.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Web.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.WindowsServer.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.ApplicationInsights.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.Web.Infrastructure.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Newtonsoft.Json.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Ninject.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Net.Http.Formatting.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Helpers.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.WebHost.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Mvc.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Optimization.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Razor.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Deployment.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Razor.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\WebActivatorEx.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\WebGrease.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Core.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.SqlServer.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.DependencyCollector.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Web.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.WindowsServer.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.ApplicationInsights.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Newtonsoft.Json.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Ninject.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Net.Http.Formatting.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Helpers.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.WebHost.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Mvc.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Optimization.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Razor.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Deployment.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Razor.xml
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Antlr3.Runtime.pdb
+E:\enLightRecipe\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.pdb
+E:\enLightRecipe\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.csprojResolveAssemblyReference.cache
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Windsor.dll
+E:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Windsor.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\ApplicationInsights.config
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\csc.exe
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\System.Collections.Immutable.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\System.Reflection.Metadata.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\vbc.exe
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\VBCSCompiler.exe
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\roslyn\VBCSCompiler.exe.config
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\enLightRecipe.dll.config
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\enLightRecipe.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\enLightRecipe.pdb
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Antlr3.Runtime.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Core.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Windsor.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.SqlServer.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Agent.Intercept.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.DependencyCollector.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Web.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.WindowsServer.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.ApplicationInsights.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.Web.Infrastructure.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Newtonsoft.Json.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Ninject.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Net.Http.Formatting.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Helpers.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.WebHost.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Mvc.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Optimization.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Razor.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Deployment.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Razor.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\WebActivatorEx.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\WebGrease.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Core.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Castle.Windsor.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\EntityFramework.SqlServer.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.DependencyCollector.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.Web.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.AI.WindowsServer.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.ApplicationInsights.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Newtonsoft.Json.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Ninject.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Net.Http.Formatting.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Helpers.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Http.WebHost.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Mvc.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Optimization.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.Razor.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Deployment.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\System.Web.WebPages.Razor.xml
+D:\enLightRecipe\enLightRecipe\enLightRecipe\bin\Antlr3.Runtime.pdb
+D:\enLightRecipe\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.csprojResolveAssemblyReference.cache
+D:\enLightRecipe\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.dll
+D:\enLightRecipe\enLightRecipe\enLightRecipe\obj\Debug\enLightRecipe.pdb
